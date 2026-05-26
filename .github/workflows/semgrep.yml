@@ -6,6 +6,11 @@ on:
   pull_request:
     branches: [ main, master ]
 
+# IMPORTANTE: Añadir estos permisos
+permissions:
+  contents: read
+  security-events: write
+
 jobs:
   semgrep:
     runs-on: ubuntu-latest

